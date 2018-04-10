@@ -22,19 +22,11 @@ Basta executar o script powershell `.\update-readme.ps1`
 
 ## Categorias
 
-_1 TILs e contando..._
+_{DocsCount} TILs e contando..._
 
 ---
 
-### Categories
-
-* [Chapter 1](#Chapter 1)
-
-### Chapter 1
-
-- [Creating Objects _ Order Initialization](Chapter 1/Creating-Objects-_-Order-Initialization.java)
-
-
+{DocsToc}
 
 ## About
 
